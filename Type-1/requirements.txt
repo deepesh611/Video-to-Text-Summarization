@@ -1,0 +1,7 @@
+colab
+torch
+google
+dotenv
+torchvision
+transformers
+opencv-python
